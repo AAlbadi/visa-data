@@ -1,0 +1,3591 @@
+{
+  "meta": {
+    "last_updated": "2026-08-30T22:47:14.377111"
+  },
+  "news": [
+    {
+      "date": "2026-08-30",
+      "passport": "SZ",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SZ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SZ",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SZ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZW",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZW",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZW",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZW",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZM",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZM",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "YE",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VN",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VE",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VE",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VU",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VU",
+      "destination": "GI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VU",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UZ",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UZ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UZ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "US",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GB",
+      "destination": "SA",
+      "old_status": "visa-on-arrival",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GB",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GB",
+      "destination": "CN",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AE",
+      "destination": "UG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AE",
+      "destination": "PG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AE",
+      "destination": "NE",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AE",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AE",
+      "destination": "HN",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AE",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AE",
+      "destination": "BJ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UA",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UG",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UG",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "UG",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TR",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TV",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TV",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TV",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TV",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TM",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TN",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TN",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TN",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TN",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TT",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TT",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TT",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TO",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TO",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TO",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TO",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TG",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TL",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GM",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TH",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TH",
+      "destination": "AL",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TZ",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TZ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TZ",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TZ",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TZ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TJ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TJ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TW",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TW",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TW",
+      "destination": "CO",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TW",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TW",
+      "destination": "AI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SY",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CH",
+      "destination": "MW",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SE",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SR",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SR",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SR",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SD",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SD",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SD",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VC",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VC",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VC",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "VC",
+      "destination": "BJ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LC",
+      "destination": "GB",
+      "old_status": "eta",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LC",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LC",
+      "destination": "IE",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LC",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KN",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KN",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KN",
+      "destination": "IE",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KN",
+      "destination": "GH",
+      "old_status": "visa-required",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KN",
+      "destination": "GE",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KN",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LK",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LK",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SS",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SS",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SS",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KR",
+      "destination": "TJ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KR",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZA",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZA",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ZA",
+      "destination": "FK",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SO",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SO",
+      "destination": "MZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SO",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SO",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SB",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SB",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SI",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SK",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SG",
+      "destination": "GA",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SG",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SG",
+      "destination": "BJ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SG",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SL",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SL",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SC",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SC",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SC",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SC",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RS",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SN",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SN",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SA",
+      "destination": "RU",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SA",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SA",
+      "destination": "BA",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SA",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ST",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ST",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SM",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "WS",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "WS",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "WS",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "WS",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RW",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RW",
+      "destination": "NG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RW",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RW",
+      "destination": "MZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RW",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RW",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RW",
+      "destination": "BW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RU",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RU",
+      "destination": "SA",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RU",
+      "destination": "BZ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "RU",
+      "destination": "BD",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "QA",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PT",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PL",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PH",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PH",
+      "destination": "PY",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PH",
+      "destination": "OM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PH",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PH",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PH",
+      "destination": "BJ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PH",
+      "destination": "AO",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PE",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PE",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PE",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PY",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PY",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PG",
+      "destination": "AE",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PG",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PG",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PG",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PG",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PA",
+      "destination": "GA",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PA",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PA",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PS",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PS",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PS",
+      "destination": "BD",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PW",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PW",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PW",
+      "destination": "GI",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PW",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PW",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PK",
+      "destination": "GM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PK",
+      "destination": "QA",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PK",
+      "destination": "MZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "PK",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "OM",
+      "destination": "TW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "OM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "OM",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "OM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "OM",
+      "destination": "BA",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "OM",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "OM",
+      "destination": "AL",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NO",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MK",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KP",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KP",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KP",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NE",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NE",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NI",
+      "destination": "GB",
+      "old_status": "eta",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NI",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NI",
+      "destination": "IE",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NI",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NI",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NZ",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NZ",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NL",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NP",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NR",
+      "destination": "TW",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NR",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NR",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NR",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NR",
+      "destination": "BZ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NA",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NA",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NA",
+      "destination": "GI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NA",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "NA",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MM",
+      "destination": "BY",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MZ",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MZ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MZ",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MA",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MA",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ME",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MN",
+      "destination": "CO",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MN",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MC",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MC",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MD",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "FM",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "FM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "FM",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "FM",
+      "destination": "BJ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MX",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MX",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MX",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MU",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MU",
+      "destination": "OM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MU",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MU",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MU",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MR",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MR",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MR",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MR",
+      "destination": "CV",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MH",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MH",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MT",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MT",
+      "destination": "KI",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ML",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MV",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MV",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MV",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MY",
+      "destination": "PY",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MY",
+      "destination": "IQ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MY",
+      "destination": "GA",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MY",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MY",
+      "destination": "BJ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MY",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MW",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MW",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MW",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MW",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MG",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MG",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MG",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MO",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MO",
+      "destination": "ID",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MO",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MO",
+      "destination": "KH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "MO",
+      "destination": "AZ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LT",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LT",
+      "destination": "KI",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LI",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LY",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LY",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LY",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LR",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LS",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LS",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LS",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LS",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LB",
+      "destination": "QA",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LB",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LV",
+      "destination": "KI",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LA",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "LA",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KG",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KG",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KW",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KW",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "XK",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "XK",
+      "destination": "KH",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KI",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KI",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KI",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KE",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KE",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KZ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KZ",
+      "destination": "ID",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KZ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "JO",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "JO",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "JP",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "JM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "JM",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "JM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IT",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IL",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IE",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IQ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IR",
+      "destination": "NP",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IR",
+      "destination": "LB",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IR",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ID",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ID",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ID",
+      "destination": "AL",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IN",
+      "destination": "GM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IN",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "IS",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HK",
+      "destination": "LK",
+      "old_status": "visa-required",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HK",
+      "destination": "LA",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HK",
+      "destination": "XK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HK",
+      "destination": "IR",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HK",
+      "destination": "KH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HK",
+      "destination": "AZ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HN",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HN",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HN",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HT",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HT",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GY",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GY",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GY",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GY",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GY",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GW",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GW",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GN",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GN",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GT",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GT",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GD",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GD",
+      "destination": "GH",
+      "old_status": "visa-required",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GD",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GH",
+      "destination": "ZM",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GH",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DE",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GE",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GA",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GA",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GA",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GA",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "FR",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "FI",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "FJ",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ET",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ET",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ET",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ET",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "EE",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ER",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ER",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "ER",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GQ",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GQ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "GQ",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "SV",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "EG",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "EG",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "EG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "EG",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "EC",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "EC",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "PA",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "NA",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "MW",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "KZ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "DM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DO",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DM",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DJ",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DJ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DJ",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DJ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CY",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CU",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CU",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CU",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "HR",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CI",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CI",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CR",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CR",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CG",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CG",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CD",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CD",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CD",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CD",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KM",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KM",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KM",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KM",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CO",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CO",
+      "destination": "MN",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CO",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CO",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CN",
+      "destination": "PH",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CN",
+      "destination": "KH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CN",
+      "destination": "BR",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CL",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TD",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TD",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TD",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "TD",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CF",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CF",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CF",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CF",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CV",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CV",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CA",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CA",
+      "destination": "CN",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CM",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CM",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CM",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "CM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KH",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KH",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "KH",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BI",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BI",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BI",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BI",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BF",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BF",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BF",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BN",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BN",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BN",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BW",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BW",
+      "destination": "GI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BW",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BW",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BW",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BA",
+      "destination": "AZ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BO",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BO",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BO",
+      "destination": "SV",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BO",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BT",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BT",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BT",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BJ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BJ",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BJ",
+      "destination": "BZ",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BZ",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BE",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BY",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BY",
+      "destination": "MM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BY",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BB",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BB",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BB",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BB",
+      "destination": "BJ",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BD",
+      "destination": "MZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BD",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BH",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BH",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BH",
+      "destination": "BA",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BH",
+      "destination": "AZ",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BS",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BS",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "BS",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AZ",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AZ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AZ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AU",
+      "destination": "TR",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AU",
+      "destination": "MW",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AM",
+      "destination": "GM",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AM",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AG",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AG",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AG",
+      "destination": "FK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AO",
+      "destination": "UG",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AO",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AO",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AO",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AD",
+      "destination": "NI",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DZ",
+      "destination": "TG",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DZ",
+      "destination": "NI",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DZ",
+      "destination": "GH",
+      "old_status": "visa-free",
+      "new_status": "eta"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "DZ",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AL",
+      "destination": "OM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AL",
+      "destination": "NI",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AF",
+      "destination": "CV",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-08-30",
+      "passport": "AF",
+      "destination": "BD",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    }
+  ]
+}
