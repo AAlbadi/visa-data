@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-07T03:32:30.622337",
+    "last_updated": "2026-09-08T03:37:10.095242",
     "total_passports": 199
   },
   "data": {
@@ -5342,7 +5342,7 @@
       "FJ": "visa-free",
       "FI": "visa-free",
       "FR": "visa-free",
-      "GF": "visa-required",
+      "GF": "visa-free",
       "PF": "visa-free",
       "FW": "visa-free",
       "GA": "visa-required",
@@ -16671,7 +16671,7 @@
       "SG": "visa-free",
       "SK": "visa-free",
       "SI": "visa-free",
-      "SB": "visa-required",
+      "SB": "visa-free",
       "SO": "visa-required",
       "ZA": "visa-free",
       "KR": "visa-free",
@@ -28489,7 +28489,7 @@
       "GY": "visa-required",
       "HT": "visa-free",
       "HN": "visa-free",
-      "HK": "visa-required",
+      "HK": "visa-free",
       "HU": "visa-free",
       "IS": "visa-free",
       "IN": "visa-required",
@@ -35817,7 +35817,7 @@
       "GY": "visa-required",
       "HT": "visa-free",
       "HN": "visa-free",
-      "HK": "visa-required",
+      "HK": "visa-free",
       "HU": "visa-free",
       "IS": "visa-free",
       "IN": "visa-required",

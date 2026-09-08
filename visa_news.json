@@ -1,8 +1,36 @@
 {
   "meta": {
-    "last_updated": "2026-09-07T03:32:30.652167"
+    "last_updated": "2026-09-08T03:37:10.135672"
   },
   "news": [
+    {
+      "date": "2026-09-08",
+      "passport": "SB",
+      "destination": "HK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-09-08",
+      "passport": "NI",
+      "destination": "HK",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-09-08",
+      "passport": "HK",
+      "destination": "SB",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-09-08",
+      "passport": "BR",
+      "destination": "GF",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
     {
       "date": "2026-08-30",
       "passport": "SZ",
