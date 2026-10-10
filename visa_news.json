@@ -1,8 +1,393 @@
 {
   "meta": {
-    "last_updated": "2026-10-09T05:09:17.065871"
+    "last_updated": "2026-10-10T04:54:48.918186"
   },
   "news": [
+    {
+      "date": "2026-10-10",
+      "passport": "VN",
+      "destination": "EG",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "VE",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "VU",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "UZ",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "UY",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "TN",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "TT",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "TO",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "GM",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "TW",
+      "destination": "OM",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "TW",
+      "destination": "AI",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "SR",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "VC",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "LK",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "SG",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "SC",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "SA",
+      "destination": "BA",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "SM",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "PY",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "PG",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "PA",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "OM",
+      "destination": "BA",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "NG",
+      "destination": "TZ",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "NR",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "NA",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "MA",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "MC",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "FM",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "MX",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "MY",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "KG",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "XK",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "JM",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "IL",
+      "destination": "CO",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "HT",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "GT",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "ET",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "SV",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "EC",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "DO",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "DM",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "DM",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "CU",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "CR",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "CD",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "CO",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "CO",
+      "destination": "IL",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "BO",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "BB",
+      "destination": "TD",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "BH",
+      "destination": "BA",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "AZ",
+      "destination": "TH",
+      "old_status": "visa-required",
+      "new_status": "visa-on-arrival"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "AM",
+      "destination": "TH",
+      "old_status": "visa-on-arrival",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "AD",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "AL",
+      "destination": "TH",
+      "old_status": "visa-free",
+      "new_status": "visa-required"
+    },
+    {
+      "date": "2026-10-10",
+      "passport": "AL",
+      "destination": "MA",
+      "old_status": "visa-required",
+      "new_status": "visa-free"
+    },
     {
       "date": "2026-09-08",
       "passport": "SB",
